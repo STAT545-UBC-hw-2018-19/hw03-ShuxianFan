@@ -18,7 +18,7 @@ Please take a look at the html file where I explored some features of kableExtra
 
 > (Sorry about that, but we can’t show files that are this big right now.)
 
-This is because the size of the file I generated is to large for GitHub to enable preview.
+This is because the size of the file I generated is too large for GitHub to enable preview.
 
 Here is a guideline of how you can view my work:
 (1) Go to the html preview page, where you will find the message above.
