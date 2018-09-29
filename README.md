@@ -10,6 +10,7 @@ Here are the links for the corresponding files:
 
 [**hw03_gapminder_html**](https://github.com/STAT545-UBC-students/hw03-ShuxianFan/blob/master/hw03_gapminder.html)
 
+[**Preview_HTML**](https://cdn.rawgit.com/STAT545-UBC-students/hw03-ShuxianFan/master/hw03_gapminder.html)
 (_**Please grade the html file, detailed instructions are shown below**_)
 
 ## _For the peer reviewer_: 
@@ -20,7 +21,11 @@ Please take a look at the html file where I explored some features of kableExtra
 
 This is because the size of the file I generated is too large for GitHub to enable preview.
 
-Here is a guideline of how you can view my work:
+You could preview the HTML page [HERE](https://cdn.rawgit.com/STAT545-UBC-students/hw03-ShuxianFan/master/hw03_gapminder.html)
+
+OR: 
+
+Here is a guideline of how you can download and view my work:
 (1) Go to the html preview page, where you will find the message above.
 
 (2) Right click the Download button on the up right corner
