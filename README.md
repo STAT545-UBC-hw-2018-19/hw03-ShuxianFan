@@ -6,9 +6,9 @@ The goal is to Use `dplyr`/`ggplot2` to manipulate and explore data.
 
 Here are the links for the corresponding files:
 
-[hw03_gapminder_md](https://github.com/STAT545-UBC-students/hw02-ShuxianFan/blob/master/hw03_gapminder.md)
+[hw03_gapminder_Rmd](https://github.com/STAT545-UBC-students/hw02-ShuxianFan/blob/master/hw03_gapminder.Rmd)
 
-[hw03_gapminder_html](https://github.com/STAT545-UBC-students/hw02-ShuxianFan/blob/master/hw03_gapminder.html)
+[hw03_gapminder_html](https://github.com/STAT545-UBC-students/hw03-ShuxianFan/blob/master/hw03_gapminder.html)
 
 
 _For the peer reviewer_: 
