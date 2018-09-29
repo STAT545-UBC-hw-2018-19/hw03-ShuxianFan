@@ -2,8 +2,9 @@
 title: "Homework 03: Use `dplyr`/`ggplot2` to manipulate and explore the `gapminder` data"
 author: "**Shuxian Fan**"
 date: "Sep 28th, 2018"
-output: github_document
-always_allow_html: yes
+output: html_document
+keepmd: TRUE
+
 ---
 ## Initial Package Setup
 ```{r}
