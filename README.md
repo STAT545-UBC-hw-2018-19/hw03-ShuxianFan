@@ -26,6 +26,7 @@ You could preview the HTML page [HERE](https://cdn.rawgit.com/STAT545-UBC-studen
 OR: 
 
 Here is a guideline of how you can download and view my work:
+
 (1) Go to the html preview page, where you will find the message above.
 
 (2) Right click the Download button on the up right corner
